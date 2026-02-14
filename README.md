@@ -35,23 +35,28 @@ Available in **Settings** (⚙️) under the **DATA** section.
 
 ## Screenshots
 
-## 📸 Screenshots
-
-<p align="center">
-  <strong>Overview</strong><br/><br/>
-  <img src="assets/main-view.png" width="100%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <p></p>
+      <strong>Main Interface</strong><br/><br/>
+      <img src="assets/main-view.png" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Save</strong><br/><br/>
-      <img src="assets/save-session.png" width="100%" />
+      <p></p>
+      <strong>Save Session</strong><br/><br/>
+      <img src="assets/save-session.png" width="80%" />
     </td>
     <td align="center">
-      <strong>Restore</strong><br/><br/>
-      <img src="assets/restore-session.png" width="100%" />
+      <p></p>
+      <strong>Manage Sessions</strong><br/><br/>
+      <img src="assets/restore-session.png" width="80%" />
     </td>
   </tr>
 </table>
@@ -59,12 +64,14 @@ Available in **Settings** (⚙️) under the **DATA** section.
 <table align="center">
   <tr>
     <td align="center">
+      <p></p>
       <strong>Settings</strong><br/><br/>
-      <img src="assets/settings.png" width="100%" />
+      <img src="assets/settings.png" width="80%" />
     </td>
     <td align="center">
+      <p></p>
       <strong>Feedback</strong><br/><br/>
-      <img src="assets/feedback.png" width="100%" />
+      <img src="assets/feedback.png" width="80%" />
     </td>
   </tr>
 </table>
