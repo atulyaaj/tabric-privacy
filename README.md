@@ -56,7 +56,7 @@ Available in **Settings** (⚙️) under the **DATA** section.
     <td align="center">
       <p></p>
       <strong>Manage Sessions</strong><br/><br/>
-      <img src="assets/restore-session.png" width="80%" />
+      <img src="assets/manage-sessions.png" width="80%" />
     </td>
   </tr>
 </table>
