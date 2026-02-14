@@ -35,20 +35,40 @@ Available in **Settings** (⚙️) under the **DATA** section.
 
 ## Screenshots
 
-<p align="center">
-  <img src="assets/main-view.png" width="80%" />
-</p>
+## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/save-session.png" width="40%" />
-  <img src="assets/restore-session.png" width="40%" />
- 
+  <strong>Overview</strong><br/><br/>
+  <img src="assets/main-view.png" width="100%" />
 </p>
 
-<p align="center">
-   <img src="assets/settings.png" width="40%" />
-  <img src="assets/feedback.png" width="40%" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Save</strong><br/><br/>
+      <img src="assets/save-session.png" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Restore</strong><br/><br/>
+      <img src="assets/restore-session.png" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Settings</strong><br/><br/>
+      <img src="assets/settings.png" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Feedback</strong><br/><br/>
+      <img src="assets/feedback.png" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
