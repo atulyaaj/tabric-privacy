@@ -66,12 +66,12 @@ Available in **Settings** (⚙️) under the **DATA** section.
     <td align="center">
       <p></p>
       <strong>Settings</strong><br/><br/>
-      <img src="assets/settings.png" width="80%" />
+      <img src="assets/settings.png" width="90%" />
     </td>
     <td align="center">
       <p></p>
       <strong>Feedback</strong><br/><br/>
-      <img src="assets/feedback.png" width="80%" />
+      <img src="assets/feedback.png" width="90%" />
     </td>
   </tr>
 </table>
