@@ -14,10 +14,8 @@ Tabric is a Chrome extension that helps you save and restore browser tab session
 - Edit or delete sessions easily
 - Search and filter sessions by name or notes
 - Select multiple sessions for bulk delete
-- Session notes displayed when restoring
 - Copy sessions as formatted text
 - Light and dark theme support
-- All data stored locally on your device
 
 > Closed the extension while typing? Don’t worry, your text is automatically restored when you open it again (drafts clear after 24 hours).
 
