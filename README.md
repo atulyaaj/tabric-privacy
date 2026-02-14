@@ -51,12 +51,12 @@ Available in **Settings** (⚙️) under the **DATA** section.
     <td align="center">
       <p></p>
       <strong>Save Session</strong><br/><br/>
-      <img src="assets/save-session.png" width="80%" />
+      <img src="assets/save-session.png" width="100%" />
     </td>
     <td align="center">
       <p></p>
-      <strong>Manage Sessions</strong><br/><br/>
-      <img src="assets/restore-session.png" width="80%" />
+      <strong>Manage</strong><br/><br/>
+      <img src="assets/restore-session.png" width="100%" />
     </td>
   </tr>
 </table>
@@ -66,12 +66,12 @@ Available in **Settings** (⚙️) under the **DATA** section.
     <td align="center">
       <p></p>
       <strong>Settings</strong><br/><br/>
-      <img src="assets/settings.png" width="80%" />
+      <img src="assets/settings.png" width="100%" />
     </td>
     <td align="center">
       <p></p>
       <strong>Feedback</strong><br/><br/>
-      <img src="assets/feedback.png" width="80%" />
+      <img src="assets/feedback.png" width="100%" />
     </td>
   </tr>
 </table>
