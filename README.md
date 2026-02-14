@@ -35,30 +35,19 @@ Available in **Settings** (⚙️) under the **DATA** section.
 
 ## Screenshots
 
-
 <p align="center">
-  <strong>Dashboard Overview</strong><br/>
-  <img src="assets/main-view.png" width="75%" />
+  <img src="assets/main-view.png" width="80%" />
 </p>
 
-<br/>
-
 <p align="center">
-  <strong>Save a New Session</strong><br/>
-  <img src="assets/save-session.png" width="45%" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Restore & Manage Sessions</strong><br/>
-  <img src="assets/restore-session.png" width="45%" />
+  <img src="assets/save-session.png" width="40%" />
+  <img src="assets/restore-session.png" width="40%" />
+ 
 </p>
 
-<br/>
-
 <p align="center">
-  <strong>Backup & Restore (Settings)</strong><br/>
-  <img src="assets/settings.png" width="45%" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>In-App Feedback</strong><br/>
-  <img src="assets/feedback.png" width="45%" />
+   <img src="assets/settings.png" width="40%" />
+  <img src="assets/feedback.png" width="40%" />
 </p>
 
 
