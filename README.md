@@ -1,6 +1,6 @@
 # Tabric - Privacy & Support
 
-This repository hosts the **privacy policy** and **support** information for the [Tabric](https://chrome.google.com/webstore) Chrome extension.
+This repository hosts the **privacy policy** and **support** information for the [Tabric](https://chromewebstore.google.com/detail/kdfeeoijbcoogiponlffiaocdadgkpio?utm_source=item-share-cb) Chrome extension.
 
 ## Privacy policy
 
